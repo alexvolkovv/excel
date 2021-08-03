@@ -1,0 +1,12 @@
+Webpack
+  Import
+  Export
+  Babel
+  SCSS
+  Eslint
+  2 modes
+    - dev
+      Not Minified
+    - prod
+      Minified code
+Git
